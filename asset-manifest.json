@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.48fab84f.css",
+    "main.js": "/static/js/main.83a758a1.js",
+    "static/js/787.a3a50995.chunk.js": "/static/js/787.a3a50995.chunk.js",
+    "static/media/logoRanepa.svg": "/static/media/logoRanepa.60fa9991b4b172e1fb6c3537c4f8fd9f.svg",
+    "static/media/ALSHauss-Medium.ttf": "/static/media/ALSHauss-Medium.54dbef8f4ebc7ed59fb2.ttf",
+    "static/media/ALSHauss-Regular.ttf": "/static/media/ALSHauss-Regular.c3b6da49cae3114b2756.ttf",
+    "static/media/photoSample.svg": "/static/media/photoSample.79c4ac6b7ea749b8e29f24493b9541c0.svg",
+    "static/media/simulator.svg": "/static/media/simulator.640857b7da4e385194ff2384ddb286ff.svg",
+    "static/media/game.svg": "/static/media/game.2cebcde983ac6ce846c5cd26d409d7bf.svg",
+    "static/media/analytics.svg": "/static/media/analytics.fe895987aa403aef1d8e55c2a57505ce.svg",
+    "static/media/notification.svg": "/static/media/notification.6a779330e588d0b89d6d5a0476c8a10a.svg",
+    "static/media/dashboard.svg": "/static/media/dashboard.6cc0e3997dbb767208da1b8ddc507854.svg",
+    "static/media/sliderArrows.svg": "/static/media/sliderArrows.976fe395f559fdbcde32.svg",
+    "index.html": "/index.html",
+    "main.48fab84f.css.map": "/static/css/main.48fab84f.css.map",
+    "main.83a758a1.js.map": "/static/js/main.83a758a1.js.map",
+    "787.a3a50995.chunk.js.map": "/static/js/787.a3a50995.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48fab84f.css",
+    "static/js/main.83a758a1.js"
+  ]
+}
