@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.4c517f31.css",
-    "main.js": "/static/js/main.83a758a1.js",
+    "main.css": "/static/css/main.860cce94.css",
+    "main.js": "/static/js/main.4e235023.js",
     "static/js/787.a3a50995.chunk.js": "/static/js/787.a3a50995.chunk.js",
     "static/media/logoRanepa.svg": "/static/media/logoRanepa.60fa9991b4b172e1fb6c3537c4f8fd9f.svg",
     "static/media/ALSHauss-Medium.ttf": "/static/media/ALSHauss-Medium.54dbef8f4ebc7ed59fb2.ttf",
@@ -12,14 +12,14 @@
     "static/media/analytics.svg": "/static/media/analytics.fe895987aa403aef1d8e55c2a57505ce.svg",
     "static/media/notification.svg": "/static/media/notification.6a779330e588d0b89d6d5a0476c8a10a.svg",
     "static/media/dashboard.svg": "/static/media/dashboard.6cc0e3997dbb767208da1b8ddc507854.svg",
-    "static/media/sliderArrows.svg": "/static/media/sliderArrows.976fe395f559fdbcde32.svg",
+    "static/media/sliderArrows.svg": "/static/media/sliderArrows.9144a560c30ab648f71b.svg",
     "index.html": "/index.html",
-    "main.4c517f31.css.map": "/static/css/main.4c517f31.css.map",
-    "main.83a758a1.js.map": "/static/js/main.83a758a1.js.map",
+    "main.860cce94.css.map": "/static/css/main.860cce94.css.map",
+    "main.4e235023.js.map": "/static/js/main.4e235023.js.map",
     "787.a3a50995.chunk.js.map": "/static/js/787.a3a50995.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4c517f31.css",
-    "static/js/main.83a758a1.js"
+    "static/css/main.860cce94.css",
+    "static/js/main.4e235023.js"
   ]
 }
