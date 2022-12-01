@@ -1,11 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.c68d2d65.css",
-    "main.js": "/static/js/main.8d48f40e.js",
+    "main.css": "/static/css/main.db43b211.css",
+    "main.js": "/static/js/main.d2d7018d.js",
     "static/js/787.a3a50995.chunk.js": "/static/js/787.a3a50995.chunk.js",
+    "static/media/startPageLogo.svg": "/static/media/startPageLogo.9b0888721daa0e19f44bf84a037481d9.svg",
     "static/media/logoRanepa.svg": "/static/media/logoRanepa.60fa9991b4b172e1fb6c3537c4f8fd9f.svg",
+    "static/media/startPageBg.svg": "/static/media/startPageBg.a5af395d59fa08dc52f6.svg",
+    "static/media/schema2.svg": "/static/media/schema2.96e66183fba5703f704df530dcb2d94e.svg",
     "static/media/ALSHauss-Medium.ttf": "/static/media/ALSHauss-Medium.54dbef8f4ebc7ed59fb2.ttf",
     "static/media/ALSHauss-Regular.ttf": "/static/media/ALSHauss-Regular.c3b6da49cae3114b2756.ttf",
+    "static/media/schema1.svg": "/static/media/schema1.1eddb9824e2fe0e7eb1c8173be27cf93.svg",
     "static/media/photoSample.svg": "/static/media/photoSample.79c4ac6b7ea749b8e29f24493b9541c0.svg",
     "static/media/simulator.svg": "/static/media/simulator.640857b7da4e385194ff2384ddb286ff.svg",
     "static/media/game.svg": "/static/media/game.2cebcde983ac6ce846c5cd26d409d7bf.svg",
@@ -14,12 +18,12 @@
     "static/media/dashboard.svg": "/static/media/dashboard.6cc0e3997dbb767208da1b8ddc507854.svg",
     "static/media/sliderArrows.svg": "/static/media/sliderArrows.9144a560c30ab648f71b.svg",
     "index.html": "/index.html",
-    "main.c68d2d65.css.map": "/static/css/main.c68d2d65.css.map",
-    "main.8d48f40e.js.map": "/static/js/main.8d48f40e.js.map",
+    "main.db43b211.css.map": "/static/css/main.db43b211.css.map",
+    "main.d2d7018d.js.map": "/static/js/main.d2d7018d.js.map",
     "787.a3a50995.chunk.js.map": "/static/js/787.a3a50995.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c68d2d65.css",
-    "static/js/main.8d48f40e.js"
+    "static/css/main.db43b211.css",
+    "static/js/main.d2d7018d.js"
   ]
 }
